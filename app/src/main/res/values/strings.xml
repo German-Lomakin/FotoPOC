@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FotoPOC</string>
+    <string name="location_details">Location details</string>
+    <string name="saved">Notes saved!</string>
+    <string name="btn_save">SAVE</string>
+    <string name="error_empty_name">Please, enter correct name</string>
+    <string name="poi_removed">Point removed</string>
+</resources>
+
